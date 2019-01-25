@@ -1,2 +1,6 @@
 # News-Headlines
-Simple news headline link reader with service workers
+Simple static news headline link reader.
+
+Connects to https://newsapi.org for the api.
+
+Set up with Web Components and Service Workers.
