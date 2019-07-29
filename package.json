@@ -1,0 +1,22 @@
+{
+  "name": "news_app",
+  "version": "1.0.0",
+  "description": "A PWA News App Reader",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Shaheed Muttaqi",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
